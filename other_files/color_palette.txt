@@ -1,0 +1,11 @@
+Palette: 
+https://coolors.co/palette/f9c301-f89201-eb713e-ad5a54-672614
+
+f9c301
+f89201
+eb713e
+ad5a54
+672614
+
+Color names:
+https://colornamer.robertcooper.me/
