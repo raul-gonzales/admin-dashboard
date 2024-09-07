@@ -173,6 +173,7 @@ div.header-bottom-right-container {
 
 /* Button style from Uiverse.io by elijahgummer */
 .golden-button {
+  width: 120px;
   touch-action: manipulation;
   display: inline-block;
   outline: none;
